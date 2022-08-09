@@ -3,4 +3,4 @@
 - 🏫 Estudie en el colegio La Salle y obtuve un logro en deporte.
 - 📒 Este semestre estoy cursando Int. a la programacion, algebra lineal y antropologia cristiana.
 - 💻 Estudio Ingenieria de Sistemas en la ucb de Tarija.
-- ❓ Espero aprender muchas cosas sobre la carrera para que me sean utilesa futuro.
+- ❓ Espero aprender muchas cosas sobre la carrera para que me sean utiles a futuro.
